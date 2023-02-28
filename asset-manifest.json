@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/over/static/js/main.d873243e.js",
+    "static/media/world.glb": "/over/static/media/world.c72374cd954a9cab30cc.glb",
+    "index.html": "/over/index.html",
+    "main.d873243e.js.map": "/over/static/js/main.d873243e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d873243e.js"
+  ]
+}
